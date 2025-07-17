@@ -1,10 +1,10 @@
-# Oblivion Syndicate
-
-![Oblivion Syndicate Logo](https://privateemail.com/ajax/image/snippet/image?id=1&uid=2fb928bc-980a-490f-a0f1-fd4d29083c79)
-
-> **Where performance isn't optional.**
-
-Welcome to **Oblivion Syndicate** — a development studio focused on building high-performance software and game development solutions.
+<div align="center">
+  <p>
+  <img src="https://github.com/Oblivion-Syndicate/.github/blob/6863a7d10963408110c1286008ce9cc7d38482cf/oblivion_emblem_256x256-2.png" width="256"/>
+  <h3 style="underline">Oblivion Syndicate</h3>
+  <strong><p>Where performance isn't optional.</p></strong>
+</p>
+</div>
 
 ---
 
