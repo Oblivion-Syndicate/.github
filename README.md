@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-  <img src="https://github.com/Oblivion-Syndicate/.github/blob/6863a7d10963408110c1286008ce9cc7d38482cf/oblivion_emblem_256x256-2.png" width="256"/>
+  <img src="https://github.com/Oblivion-Syndicate/.github/blob/6863a7d10963408110c1286008ce9cc7d38482cf/oblivion_emblem_256x256-2.png" width="204"/>
   <h3 style="underline">Oblivion Syndicate</h3>
   <strong><p>Where performance isn't optional.</p></strong>
 </p>
